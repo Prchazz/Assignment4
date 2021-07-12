@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		HTMLstyle.css = HTMLstyle.css
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "images", "images", "{6C85C1AF-5CBB-4A53-A176-B42A85E3E043}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 	EndGlobalSection
@@ -19,5 +21,8 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B2CC77C3-2751-4C7F-AFFC-DC5E895C1E5C}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6C85C1AF-5CBB-4A53-A176-B42A85E3E043} = {545F9987-EB4A-4FA6-9233-39138EE68711}
 	EndGlobalSection
 EndGlobal
