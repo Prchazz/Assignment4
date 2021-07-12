@@ -1,0 +1,27 @@
+﻿body {
+    background-color: aliceblue;
+    align-content: center;
+}
+.Charles {
+    color : green;
+}
+.places{
+    color : purple;
+}
+#birth{
+    font-style : italic;
+}
+img {
+    margin: 25px 25px 25px 25px;
+    border-radius: 8px;
+    max-width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+p {
+    color: cadetblue;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+}
